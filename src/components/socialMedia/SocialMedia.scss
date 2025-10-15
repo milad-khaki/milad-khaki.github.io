@@ -36,6 +36,10 @@
   background-color: $linkedin;
 }
 
+.orcid i {
+  background-color: $orcid;
+}
+
 .github i {
   background-color: $github;
 }
@@ -74,6 +78,7 @@
 .gitlab i:hover,
 .github i:hover,
 .linkedin i:hover,
+.orcid i:hover,
 .facebook i:hover,
 .instagram i:hover,
 .stack-overflow i:hover,

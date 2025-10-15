@@ -34,7 +34,6 @@ Created something awesome for your fork of the portfolio and want to share it? F
 ✔️ Skills\
 ✔️ Education\
 ✔️ Work Experience\
-✔️ Open Source Projects Connected with GitHub\
 ✔️ Big Projects\
 ✔️ Achievements And Certifications 🏆\
 ✔️ Blogs\
@@ -155,7 +154,7 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
+  title: "Hi all I'm Milad",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };

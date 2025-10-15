@@ -20,11 +20,12 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
-  ),
+	username: "Milad Khaki",
+	title: "Hi all, I'm Milad",
+	subTitle: emoji(
+	  "A passionate Computational Neuroscientist and Deep Learning Engineer 🧠⚙️ with experience in analyzing large-scale neural data, building AI models for neuroscience and clinical research, and developing efficient embedded and data processing systems."
+	),
+
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -33,13 +34,14 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/mld-khaki",
+  linkedin: "https://www.linkedin.com/in/milad-khaki/",
+  orcid: "https://orcid.org/0000-0003-0566-727X",
+  //gmail: "milaad.khaki@gmail.com",
+  //gitlab: "https://gitlab.com/saadpasta",
+  //facebook: "https://www.facebook.com/saad.pasta7",
+  //medium: "https://medium.com/@saadpasta",
+  //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -48,104 +50,141 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "What I Do",
+  subTitle:
+    "AI & Computational Neuroscience Engineer ⚙️ passionate about deep learning, large-scale data analysis, and brain–machine interface systems.",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Design and optimize deep learning models for neural signal decoding, speech, and cognitive data analysis."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )
+      "⚡ Develop automated pipelines for large-scale SEEG, EEG, and behavioral datasets with Python, PyTorch, and Our beloved C++."
+    ),
+    emoji(
+      "⚡ Build robust data infrastructures for research environments — from real-time acquisition to archival storage."
+    ),
+    emoji(
+      "⚡ Integrate AI-driven tools for clinical and experimental workflows, improving reproducibility and privacy compliance."
+    ),
+    emoji(
+      "⚡ Develop and debug embedded systems for neuroscience instrumentation (e.g., FPGA, STM32, ESP32)."
+    ),
   ],
+
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
-  softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
-  ],
+	softwareSkills: [
+	  {
+		skillName: "Python",
+		fontAwesomeClassname: "fab fa-python"
+	  },
+	  {
+		skillName: "PyTorch",
+		fontAwesomeClassname: "fas fa-brain" // symbolic for neural networks
+	  },
+	  {
+		skillName: "TensorFlow",
+		fontAwesomeClassname: "fas fa-project-diagram"
+	  },
+	  {
+		skillName: "MATLAB",
+		fontAwesomeClassname: "fas fa-square-root-alt"
+	  },
+	  {
+		skillName: "Pandas",
+		fontAwesomeClassname: "fas fa-table"
+	  },
+	  {
+		skillName: "SQL / NoSQL",
+		fontAwesomeClassname: "fas fa-database"
+	  },
+	  {
+		skillName: "Linux / Bash",
+		fontAwesomeClassname: "fab fa-linux"
+	  },
+	  {
+		skillName: "Git / GitHub",
+		fontAwesomeClassname: "fab fa-git-alt"
+	  },
+	  {
+		skillName: "Docker / Containers",
+		fontAwesomeClassname: "fab fa-docker"
+	  },
+	  {
+		skillName: "C / C++ / C#",
+		fontAwesomeClassname: "fas fa-code"
+	  },
+	  {
+		skillName: "FPGA / Embedded Systems",
+		fontAwesomeClassname: "fas fa-microchip"
+	  },
+	  {
+		skillName: "Data Visualization",
+		fontAwesomeClassname: "fas fa-chart-line"
+	  },
+	  {
+		skillName: "Cloud & HPC (AWS / SLURM)",
+		fontAwesomeClassname: "fas fa-server"
+	  }
+	],
+
   display: true // Set false to hide this section, defaults to true
 };
 
 // Education Section
 
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  display: true,
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "University of Waterloo",
+      logo: require("./assets/images/waterlooLogo.png"),
+      subHeader: "Ph.D. in Computer Science",
+      //duration: "September 2017 – December 2022",
+      desc: "Focus: NLP, Deep Learning, Data Standardization",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Thesis: “Natural Language Processing using Deep Learning for Classifying Water Infrastructure Procurement Records and Calculating Unit Costs.”",
+        "GPA: 88.75 / 100"
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "University of Alberta",
+      logo: require("./assets/images/albertaLogo.png"),
+      subHeader: "M.Sc. in Computer Engineering",
+      //duration: "September 2014 – August 2016",
+      desc: "Focus: Software Engineering and Intelligent Systems",
+      descBullets: [
+        "Thesis: “Advanced Dynamic Thermal Rating with Emphasis on Cost Optimization.”",
+        "GPA: 3.84 / 4.0"
+      ]
+    },
+    {
+      schoolName: "Amirkabir University of Technology (Tehran Polytechnic)",
+      logo: require("./assets/images/amirkabirLogo.png"),
+      subHeader: "M.Sc. in Electrical Engineering",
+      //duration: "September 2011 – July 2013",
+      desc: "Focus: FPGA-based Image Processing",
+      descBullets: [
+        "Thesis: “Design and Implementation of an Image Segmentation and Classifier Web Interface on FPGA (Virtex II-Pro).”",
+        "GPA: 82.6 / 100"
+      ]
+    },
+    {
+      schoolName: "Khajeh Nasir al-Din Toosi University of Technology (K. N. Toosi)",
+      logo: require("./assets/images/kntuLogo.png"),
+      subHeader: "B.Sc. in Electrical Engineering",
+      //duration: "September 2006 – June 2011",
+      desc: "Focus: DSP-based Active Power Filters",
+      descBullets: [
+        "Thesis: “Modeling and Implementation of Sliding Mode APF on TMS320F2812.”",
+        "GPA: 78.55 / 100"
+      ]
     }
   ]
 };
+
 
 // Your top 3 proficient stacks/tech experience
 
