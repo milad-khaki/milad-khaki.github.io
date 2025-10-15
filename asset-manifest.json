@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.5be23a39.css",
-    "main.js": "/static/js/main.69bb7076.js",
-    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.caca0413.chunk.js": "/static/js/64.caca0413.chunk.js",
-    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.e2fbaa0a.chunk.js": "/static/js/769.e2fbaa0a.chunk.js",
+    "main.js": "/static/js/main.7aab8b1f.js",
+    "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
+    "static/js/487.725223ba.chunk.js": "/static/js/487.725223ba.chunk.js",
+    "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
+    "static/js/990.59fabe13.chunk.js": "/static/js/990.59fabe13.chunk.js",
     "static/media/albertaLogo.png": "/static/media/albertaLogo.3e1f093e55677cc30087.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/waterlooLogo.png": "/static/media/waterlooLogo.9ee16702d56494a57d60.png",
@@ -28,14 +28,14 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.5be23a39.css.map": "/static/css/main.5be23a39.css.map",
-    "main.69bb7076.js.map": "/static/js/main.69bb7076.js.map",
-    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
-    "64.caca0413.chunk.js.map": "/static/js/64.caca0413.chunk.js.map",
-    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
-    "769.e2fbaa0a.chunk.js.map": "/static/js/769.e2fbaa0a.chunk.js.map"
+    "main.7aab8b1f.js.map": "/static/js/main.7aab8b1f.js.map",
+    "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
+    "487.725223ba.chunk.js.map": "/static/js/487.725223ba.chunk.js.map",
+    "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
+    "990.59fabe13.chunk.js.map": "/static/js/990.59fabe13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5be23a39.css",
-    "static/js/main.69bb7076.js"
+    "static/js/main.7aab8b1f.js"
   ]
 }
