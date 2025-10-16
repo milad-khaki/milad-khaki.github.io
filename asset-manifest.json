@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.4640d80e.css",
-    "main.js": "/static/js/main.1f1b5464.js",
+    "main.js": "/static/js/main.011b8b2d.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.725223ba.chunk.js": "/static/js/487.725223ba.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.59fabe13.chunk.js": "/static/js/990.59fabe13.chunk.js",
-    "static/media/albertaLogo.png": "/static/media/albertaLogo.3e1f093e55677cc30087.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/waterlooLogo.png": "/static/media/waterlooLogo.9ee16702d56494a57d60.png",
-    "static/media/ccepLogo.png": "/static/media/ccepLogo.a61af3b8f9a60abdd174.png",
     "static/media/amirkabirLogo.png": "/static/media/amirkabirLogo.2e63d4e0c9c219cc29cd.png",
     "static/media/robartsLogo.png": "/static/media/robartsLogo.32247dda71c517676f43.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -20,7 +18,9 @@
     "static/media/thesisLogo.png": "/static/media/thesisLogo.dbc9d8d8716a6b2106be.png",
     "static/media/ccomLogo.png": "/static/media/ccomLogo.c29e0ec3a991b8d2227b.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/albertaLogo.webp": "/static/media/albertaLogo.3c013763aa69654f7e9e.webp",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/ccepLogo.webp": "/static/media/ccepLogo.5df990b27413275319a0.webp",
     "static/media/abbotsfordLogo.png": "/static/media/abbotsfordLogo.36158df15e9f8c9b0dec.png",
     "static/media/lhscLogo.png": "/static/media/lhscLogo.6ef74c5d54c744b714fc.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
@@ -28,7 +28,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.4640d80e.css.map": "/static/css/main.4640d80e.css.map",
-    "main.1f1b5464.js.map": "/static/js/main.1f1b5464.js.map",
+    "main.011b8b2d.js.map": "/static/js/main.011b8b2d.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.725223ba.chunk.js.map": "/static/js/487.725223ba.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.4640d80e.css",
-    "static/js/main.1f1b5464.js"
+    "static/js/main.011b8b2d.js"
   ]
 }
