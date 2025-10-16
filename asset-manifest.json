@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5be23a39.css",
-    "main.js": "/static/js/main.1076a9ce.js",
+    "main.js": "/static/js/main.1734f438.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.725223ba.chunk.js": "/static/js/487.725223ba.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -10,6 +10,7 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/waterlooLogo.png": "/static/media/waterlooLogo.9ee16702d56494a57d60.png",
     "static/media/amirkabirLogo.png": "/static/media/amirkabirLogo.2e63d4e0c9c219cc29cd.png",
+    "static/media/robartsLogo.png": "/static/media/robartsLogo.32247dda71c517676f43.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/kntuLogo.png": "/static/media/kntuLogo.41ac34c07351230d28cb.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -24,7 +25,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.5be23a39.css.map": "/static/css/main.5be23a39.css.map",
-    "main.1076a9ce.js.map": "/static/js/main.1076a9ce.js.map",
+    "main.1734f438.js.map": "/static/js/main.1734f438.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.725223ba.chunk.js.map": "/static/js/487.725223ba.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -32,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.5be23a39.css",
-    "static/js/main.1076a9ce.js"
+    "static/js/main.1734f438.js"
   ]
 }
