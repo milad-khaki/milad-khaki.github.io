@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.49040067.css",
-    "main.js": "/static/js/main.d5b1188d.js",
+    "main.js": "/static/js/main.ad173f11.js",
     "static/css/487.b7973b56.chunk.css": "/static/css/487.b7973b56.chunk.css",
     "static/js/487.725223ba.chunk.js": "/static/js/487.725223ba.chunk.js",
     "static/css/990.4ce9d8c5.chunk.css": "/static/css/990.4ce9d8c5.chunk.css",
@@ -13,6 +13,7 @@
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/milad.jpg": "/static/media/milad.05e34767fefa36332990.jpg",
     "static/media/kntuLogo.png": "/static/media/kntuLogo.41ac34c07351230d28cb.png",
+    "static/media/highlight_phi_ai_redactor.webp": "/static/media/highlight_phi_ai_redactor.0ad90697879513271e74.webp",
     "static/media/bchydroLogo.png": "/static/media/bchydroLogo.c9a39ef63a2f7a676f0c.png",
     "static/media/bidsLogo.png": "/static/media/bidsLogo.69a8cc5bbf6efc3aef6d.png",
     "static/media/thesisLogo.png": "/static/media/thesisLogo.dbc9d8d8716a6b2106be.png",
@@ -31,7 +32,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.49040067.css.map": "/static/css/main.49040067.css.map",
-    "main.d5b1188d.js.map": "/static/js/main.d5b1188d.js.map",
+    "main.ad173f11.js.map": "/static/js/main.ad173f11.js.map",
     "487.b7973b56.chunk.css.map": "/static/css/487.b7973b56.chunk.css.map",
     "487.725223ba.chunk.js.map": "/static/js/487.725223ba.chunk.js.map",
     "990.4ce9d8c5.chunk.css.map": "/static/css/990.4ce9d8c5.chunk.css.map",
@@ -39,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.49040067.css",
-    "static/js/main.d5b1188d.js"
+    "static/js/main.ad173f11.js"
   ]
 }
