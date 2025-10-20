@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.49040067.css",
-    "main.js": "/static/js/main.8fa76bd3.js",
+    "main.js": "/static/js/main.7b396336.js",
     "static/css/487.b7973b56.chunk.css": "/static/css/487.b7973b56.chunk.css",
     "static/js/487.725223ba.chunk.js": "/static/js/487.725223ba.chunk.js",
     "static/css/990.4ce9d8c5.chunk.css": "/static/css/990.4ce9d8c5.chunk.css",
@@ -21,6 +21,7 @@
     "static/media/albertaLogo.webp": "/static/media/albertaLogo.3c013763aa69654f7e9e.webp",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/paper_logo_datascience.webp": "/static/media/paper_logo_datascience.2f87fb38ed85bc349488.webp",
+    "static/media/paper_logo_neuroscience.webp": "/static/media/paper_logo_neuroscience.cb7ff7f3940060364c32.webp",
     "static/media/abbotsfordLogo.png": "/static/media/abbotsfordLogo.36158df15e9f8c9b0dec.png",
     "static/media/paper_logo_eng.webp": "/static/media/paper_logo_eng.dcd16af732e536db49e4.webp",
     "static/media/paper_logo_thesis.webp": "/static/media/paper_logo_thesis.dd6189999ee5cd21ad76.webp",
@@ -29,7 +30,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.49040067.css.map": "/static/css/main.49040067.css.map",
-    "main.8fa76bd3.js.map": "/static/js/main.8fa76bd3.js.map",
+    "main.7b396336.js.map": "/static/js/main.7b396336.js.map",
     "487.b7973b56.chunk.css.map": "/static/css/487.b7973b56.chunk.css.map",
     "487.725223ba.chunk.js.map": "/static/js/487.725223ba.chunk.js.map",
     "990.4ce9d8c5.chunk.css.map": "/static/css/990.4ce9d8c5.chunk.css.map",
@@ -37,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.49040067.css",
-    "static/js/main.8fa76bd3.js"
+    "static/js/main.7b396336.js"
   ]
 }
